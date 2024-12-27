@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [University Technician in Programming](https://mdp.utn.edu.ar/tecnicatura/tecnico_universitario_en_programacion/) in [UTN](https://mdp.utn.edu.ar/)
+- :computer: I am a Software Developer
 - :boom: You can visit [MY WEBSITE](https://github.com/AgusMeikle) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=AgusMeikle&amp;color=EA4335&amp;style=flat-square)](mailto:agustin042004@gmail.com)
 
