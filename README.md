@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :computer: I am a Software Developer
-- :boom: You can visit [MY WEBSITE](https://github.com/AgusMeikle) for some frontend knowledge
+- :boom: You can visit [MY WEBSITE](https://agusmeikle.netlify.app/) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=AgusMeikle&amp;color=EA4335&amp;style=flat-square)](mailto:agustin042004@gmail.com)
 
 <br>
@@ -61,6 +61,5 @@
 
 ## 📱 Check out my Social Media
 
-<a href="https://www.instagram.com/agus.meikle/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/agustin-meikle/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
